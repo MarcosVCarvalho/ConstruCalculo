@@ -1,44 +1,32 @@
-# classroom-components
+🏗️ Construcálculo
+Gestão Inteligente de Obras e Orçamentos
 
-This template should help get you started developing with Vue 3 in Vite.
+O Construcálculo é uma plataforma web inteligente desenvolvida para transformar a forma como obras públicas e privadas são planejadas, orçadas e gerenciadas. O sistema integra tecnologia, automação e princípios modernos de gestão para tornar o processo de construção mais eficiente, transparente e preciso.
 
-## Recommended IDE Setup
+A proposta do projeto é centralizar, em um único ambiente digital, todas as etapas do planejamento de uma obra — desde o cálculo de materiais até o controle financeiro e documental — reduzindo erros humanos e aumentando a produtividade dos profissionais da construção civil.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+🎯 Objetivo do Projeto
 
-## Recommended Browser Setup
+Desenvolver uma plataforma inteligente e integrada voltada ao cálculo, planejamento e gestão de obras, automatizando processos que tradicionalmente exigem tempo, experiência técnica e cálculos manuais complexos.
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+O Construcálculo busca tornar o orçamento de obras mais rápido, confiável e acessível, atendendo engenheiros, arquitetos, gestores de obras e profissionais da administração pública.
 
-## Customize configuration
+🚀 Principais Funcionalidades
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+📐 Cálculo automático de materiais e custos
 
-## Project Setup
+📊 Geração de relatórios orçamentários detalhados
 
-```sh
-npm install
-```
+🗂️ Gestão documental da obra
 
-### Compile and Hot-Reload for Development
+💰 Acompanhamento financeiro em tempo real
 
-```sh
-npm run dev
-```
+🤝 Integração com fornecedores e insumos
 
-### Compile and Minify for Production
+🤖 Uso de Inteligência Artificial para análise e visualização de dados
 
-```sh
-npm run build
-```
+📈 Monitoramento da execução da obra
 
-### Lint with [ESLint](https://eslint.org/)
+🔍 Maior transparência para obras públicas
 
-```sh
-npm run lint
-```
+Projeto em andamento.
